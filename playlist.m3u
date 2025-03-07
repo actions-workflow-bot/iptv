@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="channel1" tvg-name="Example Channel" tvg-logo="http://example.com/logo.png" group-title="Test", Example Channel
+#EXT-X-STREAM-INF:REFERER="http://example.com/referrer" USER-AGENT="CustomUserAgent/1.0"
+http://example.com/channelstream.m3u8
