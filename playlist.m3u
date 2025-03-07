@@ -1,4 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="channel1" tvg-name="Example Channel" tvg-logo="http://example.com/logo.png" group-title="Test", Example Channel
-#EXT-X-STREAM-INF:REFERER="http://example.com/referrer" USER-AGENT="CustomUserAgent/1.0"
+#EXTVLCOPT:http-referrer=http://example.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 http://example.com/channelstream.m3u8
