@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="channel1" tvg-name="Example Channel" tvg-logo="http://example.com/logo.png" group-title="Test", Example Channel
-#EXTVLCOPT:http-referrer=http://example.com/
+#EXTVLCOPT:http-referrer=https://dokko1new.koskoros.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://dokko1new.koskoros.ru/dokko1/premium74/mono.m3u8
+https://dokko1new.koskoros.ru/dokko1/premium91/mono.m3u8
